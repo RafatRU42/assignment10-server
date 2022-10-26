@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Web Design",
+        "premium": 11,
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
@@ -9,6 +10,7 @@
     },
     {
         "id": 2,
+        "premium": 12,
         "name": "Web Development",
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -17,6 +19,7 @@
     },
     {
         "id": 3,
+        "premium": 13,
         "name": "Video Editing",
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -25,6 +28,7 @@
     },
     {
         "id": 4,
+        "premium": 14,
         "name": "Digital Marketing",
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -33,6 +37,7 @@
     },
     {
         "id": 5,
+        "premium": 15,
         "name": "Data Entry",
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
@@ -41,6 +46,7 @@
     },
     {
         "id": 6,
+        "premium": 16,
         "name": "Content Writing",
         "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
