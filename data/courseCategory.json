@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design"
+    },
+    {
+        "id": 2,
+        "name": "Web Development"
+    },
+    {
+        "id": 3,
+        "name": "Video Editing"
+    },
+    {
+        "id": 4,
+        "name": "Digital Marketing"
+    },
+    {
+        "id": 5,
+        "name": "Data Entry"
+    },
+    {
+        "id": 6,
+        "name": "Content Writing"
+    }
+]

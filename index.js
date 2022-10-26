@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 
 const coursesData = require('./data/courses.json')
+const courseCategory = require('./data/courseCategory.json')
 
 
 
@@ -25,7 +26,16 @@ app.get('/courses/:id',(req,res) =>{
     res.send(selecedId)
 })
 
+app.get('/courses/:premium',(req, res) =>{
+    const id = req.params.id;
+    const selectedId = coursesData.find(pre => pre.premium == id);
+    res.send(selectedId)
+})
 
+
+app.get('/category', (req, res) =>{
+    res.send(courseCategory)
+})
 
 
 
